@@ -4,7 +4,9 @@
 
 2. Name 5 things Javascript can do.
 
-    Ans: Create Interactive web user interface.
+    Ans: 
+    
+       Create Interactive web user interface.
 
        Manage backend services of websites.
 
@@ -24,10 +26,12 @@
 
 5. List the tech fields that use JavaScript, for example FrontEnd.
 
-   Ans: Frontend Web Devlopment.
+   Ans: 
+
+       Frontend Web Devlopment.
 
         Backend Web Devlopment.
-        
+
         Mobile Devlopment.
 
 6. Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category.
