@@ -4,7 +4,7 @@
 
 2. Name 5 things Javascript can do.
 
-    Ans: 
+    Ans: JavaScript can-
     
        Create Interactive web user interface.
 
@@ -28,11 +28,11 @@
 
    Ans: 
 
-       Frontend Web Devlopment.
+       Frontend Web Development.
 
-        Backend Web Devlopment.
+        Backend Web Development.
 
-        Mobile Devlopment.
+        Mobile Development.
 
 6. Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category.
 
